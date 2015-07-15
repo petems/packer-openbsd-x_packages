@@ -36,7 +36,7 @@
         "Since you set up a user, disable sshd(8) logins to root = no<enter>",
         "What timezone are you in = UTC<enter>",
         "Location of sets = cd<enter>",
-        "Set name(s) = -game*.tgz -x*.tgz<enter>",
+        "Set name(s) = -game*.tgz<enter>",
         "Directory does not contain SHA256.sig. Continue without verification = yes<enter>",
         "EOF<enter>",
         "install -af install.conf && reboot<enter>"
